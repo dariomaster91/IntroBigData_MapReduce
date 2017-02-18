@@ -2,12 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
-<<<<<<< HEAD
 rmr*
-=======
-rmr*
-<<<<<<< HEAD
-MapReduce.Rproj
-=======
->>>>>>> 542c31fa4fddccd9427e998e392878aea06cafff
->>>>>>> e626d60afdbdef8e0f6f23c8f42291232428fbf9
+*.Rproj
